@@ -19,14 +19,14 @@ The QuadraFuse framework follows a dual-branch architecture that extracts both l
 Datasets:
 QuadraFuse/
 │
- ── 📁 Dataset/                        # Training dataset (5 classes)
+ ──  Dataset/                        # Training dataset (5 classes)
 │   ── alexandra/
 │   ── courtney/
 │   ── elizabeth/
 │   ── henry/
 │   ── zac/
 │
- ── 📁 Dataset_masked/                 # Testing dataset (occulsed faces)
+ ──  Dataset_masked/                 # Testing dataset (occulsed faces)
 │   ── alexandra/
 │   ── courtney/
 │   ── elizabeth/
